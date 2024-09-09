@@ -34,7 +34,7 @@
 ## Visualization Comparison and Analysis
 
 ### Dataset
-For part 3, I have chosen a subset of the dataset - General government debt, I have selected data from three European countries specifically: Ireland, Belgium, and Greece—due to their distinct trends in government debt over the given period. Ireland exhibits a significant increase in debt following the global financial crisis, while Belgium shows a decreasing trend, highlighting its efforts in debt reduction. In contrast, Greece experienced a substantial rise in debt during the
+For part 3, I have chosen a subset of the dataset - General government debt, I have selected data from three European countries specifically: Ireland, Belgium, and Greece—due to their distinct trends in government debt over the given period.Ireland has seen a big increase in debt, especially after the financial crisis. Belgium, on the other hand, has managed to reduce its debt over time. Greece experienced a sharp rise in debt during its financial crisis. Comparing these countries helps us understand how different economic situations and government policies can affect a country's debt.
 
 ### Bar Chart (Part 1)
 The bar chart provides a clear, straightforward comparison of general government debt as a percentage of GDP for multiple countries in 2022. This visualization is effective for quickly identifying which countries have the highest and lowest debt levels.
