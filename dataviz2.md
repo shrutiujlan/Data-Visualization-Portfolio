@@ -29,11 +29,14 @@
 </script>
 
 Visualization Comparison and Analysis
-**Bar Chart**
+
+### Bar Chart
 The bar chart provides a clear, straightforward comparison of general government debt as a percentage of GDP for multiple countries in 2022. This visualization is effective for quickly identifying which countries have the highest and lowest debt levels. The use of dark and light shades helps distinguish between countries above and below the OECD average.
-**Heat Map**
+
+### Heat Map
 The heat map offers a different perspective by focusing on the intensity of debt levels across countries and time periods. It allows for a quick assessment of which countries have consistently high or low debt-to-GDP ratios over the years. The use of a color gradient makes it easy to spot trends and outliers, providing a comprehensive overview of the dataset.
-**Line Chart**
+
+### Line Chart
 The line chart illustrates trends in debt-to-GDP ratios over time for Japan, Italy, and Germany. This visualization is ideal for showing changes and patterns, making it easy to compare the trajectories of each country's debt-to-GDP ratio. It highlights how Japan's ratio has consistently increased, while Italy and Germany show more variability.
 
 Each visualization method has its strengths and limitations. The bar chart is excellent for static comparisons, the line chart excels at showing trends over time, and the heat map provides a broad overview of changes across multiple dimensions. 
