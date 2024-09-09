@@ -1,5 +1,4 @@
-[home page](https://shrutiujlan.github.io/tswd-portfolio/) 
-
+| [home page](https://shrutiujlan.github.io/tswd-portfolio/) | [assignment2](/dataviz2.md)
 **Part 1:**
 
 ![image](https://github.com/user-attachments/assets/33bc26ca-2b71-4e52-8714-007fa714d948)
