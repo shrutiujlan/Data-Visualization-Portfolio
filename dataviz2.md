@@ -31,10 +31,10 @@
 
 
 
-##Visualization Comparison and Analysis
+## Visualization Comparison and Analysis
 
-###Dataset
-For part 3, I have chosen a subset of the dataset : General government debt, I have selected data from three European countries specifically: Ireland, Belgium, and Greece—due to their distinct trends in government debt over time. Ireland exhibits a significant increase in debt following the global financial crisis, while Belgium shows a decreasing trend, highlighting its efforts in debt reduction. In contrast, Greece experienced a substantial rise in debt during the
+### Dataset
+For part 3, I have chosen a subset of the dataset - General government debt, I have selected data from three European countries specifically: Ireland, Belgium, and Greece—due to their distinct trends in government debt over the given period. Ireland exhibits a significant increase in debt following the global financial crisis, while Belgium shows a decreasing trend, highlighting its efforts in debt reduction. In contrast, Greece experienced a substantial rise in debt during the
 
 ### Bar Chart (Part 1)
 The bar chart provides a clear, straightforward comparison of general government debt as a percentage of GDP for multiple countries in 2022. This visualization is effective for quickly identifying which countries have the highest and lowest debt levels.
@@ -43,6 +43,5 @@ The bar chart provides a clear, straightforward comparison of general government
 The heat map offers a different perspective by focusing on the intensity of debt levels across countries and time periods. It allows for a quick assessment of which countries have consistently high or low debt-to-GDP ratios over the years. The use of a color gradient makes it easy to spot trends and outliers, providing a comprehensive overview of the dataset.
 
 ### Line Chart (Part 3) 
-I chose the line chart illustrates trends in debt-to-GDP ratios over time for European Countries Greece, Belgium, and Ireland over the period from 1995 to 2019. Greece (blue line) shows a significant increase, especially during the financial crisis around 2010, reflecting severe economic challenges and bailout measures. Italy (orange line) maintains a relatively high ratio with fluctuations, indicating persistent economic struggles. In contrast, Germany (pink line) has a lower and declining ratio post-2010, showcasing strong economic performance and effective fiscal policies.I chose this visualization as it highlights trends, peaks, and troughs, allowing for a detailed examination of each country's fiscal trajectory. It is especially useful for identifying long-term patterns and the impact of economic events, making it the best choice for analyzing trends in debt-to-GDP ratios.
-
-Each visualization method has its strengths and limitations. The bar chart is excellent for static comparisons, the line chart excels at showing trends over time, and the heat map provides a broad overview of changes across multiple dimensions. 
+I chose the line chart illustrates trends in debt-to-GDP ratios over time for European Countries Greece, Belgium, and Ireland over the period from 1995 to 2019. Greece (blue line) shows a significant increase, especially during the financial crisis around 2010, reflecting severe economic challenges and bailout measures. Italy (orange line) maintains a relatively high ratio with fluctuations, indicating persistent economic struggles. In contrast, Germany (pink line) has a lower and declining ratio post-2010, showcasing strong economic performance and effective fiscal policies.I chose this visualization as it highlights trends, peaks, and troughs, allowing for a detailed examination of each country's fiscal trajectory. It is especially useful for identifying long-term patterns and the impact of economic events, making it the best choice for analyzing trends in debt-to-GDP ratios.I chose distinct colors (Blue, Pink, Orange) to enhance clarity and help convey the data's story by visually distinguishing between different countries and trends.
+Each visualization method has its strengths and limitations. The bar chart is great for static comparisons, the line chart excels at showing trends over time, and the heat map provides a broad overview of changes across multiple dimensions. 
