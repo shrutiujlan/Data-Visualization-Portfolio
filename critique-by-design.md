@@ -24,29 +24,29 @@ I chose this visualization because I'm into fitness and monitor my protein intak
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 Critique of the Data Visualization based on Stephen Few's Data Visualization Effectiveness Profile
-Usefulness
+#### Usefulness
 Rating: 8/10
 The visualization effectively communicates the cost per 30g of protein for various products, which is valuable for individuals interested in cost-effective protein sources.
-Completeness
+#### Completeness
 Rating: 6/10
 The visualization does not include all items from the dataset, such as canned black beans and cheddar cheese, and also whether an item is vegetarian vegan or non vegetarian ,which could provide a more comprehensive comparison.
-Perceptibility
+#### Perceptibility
 Rating: 8/10
 The bar chart format is clear, but some items from the dataset are missing, which could lead to incomplete understanding.
-Truthfulness
+#### Truthfulness
 Rating: 6/10
 There are discrepancies between the dataset and the visualization values (bar length ), which could affect the perceived accuracy.
-Intuitiveness
+#### Intuitiveness
 Rating: 8/10
 The chart is intuitive and straightforward, but the missing data might confuse users familiar with the dataset.
-Aesthetics
+#### Aesthetics
 Rating: 7/10
 The design is clean, but the color scheme could be improved  for differentiating b between vegetarian vegan or non vegetarian for better differentiation between bars.
-Engagement
+#### Engagement
 Rating: 7/10
 The visualization is engaging, but including more data points could enhance interest and discussion.
 
-What I Don't Like
+### What I Don't Like
 Cluttered Illustrations: The food item illustrations are cluttering the visualization and can distract from the data. They add little value since the labels already indicate the food item. The chart discusses 30g portions, but the illustrations display entire packages, which may mislead users.
 Discrepancies: There are inconsistencies between the bar heights and the dataset values, which could confuse viewers eg. According to the dataset  for 30g of protein from Salmon costs around 3.53 but the visualization shows it around 4 
 Calorie Information: The calorie count is included but doesn't add value when the focus is on cost-effectiveness. Additionally, the dataset does not provide the calorie value for each food item, making the data source unreliable.
@@ -55,13 +55,13 @@ Bar Width: The bars are too wide, contributing to a cluttered appearance. Narrow
 Y-Axis Scale: The scale could use smaller increments (e.g., 0.5) to better highlight small cost differences.
 No Data Source: The data source is not included, which affects the credibility of the visualization.
 
-What I Like
+### What I Like
 Intuitive Design: The chart is straightforward and easy to understand.
 Clean Layout: Despite some clutter, the overall design is clean and organized.
 Engaging Presentation: The visualization is engaging and draws the viewer's attention.
 Clear Context: The chart provides context with a clear title and labels, making it easy to grasp the main idea.
 
-Recommendations
+### Recommendations
 Simplify Illustrations: Remove the food illustrations to reduce clutter.
 Enhance Color Contrast: Use more distinct colors for each food category (vegan, vegetarian, and non-vegetarian) to improve differentiation.
 Ensure Data Accuracy: Align the bar heights with the dataset values to ensure consistency.
@@ -115,14 +115,16 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Interview 1 | Interview 2 |
+| Question | Interview 1 student, early 20's | Interview 2 student, mid  20's|
 |----------|-------------|-------------|
-|     Can you tell me what you think this is?     |     Statistical representation of cost of various food items containing 20g protein         |             |
-|     Can you describe to me what this is telling you? |       respective cost per 20g of protein.      |             |
-|     Is there anything you find surprising or confusing?   |             |             |
-|     Who do you think is the intended audience for this?    |             |             |
-|     Is there anything you would change or do differently?   |             |             |
-|          |             |             |
+|Can you tell me what you think this is?     |     Statistical representation of cost of various food items containing 20g protein         |   It is a bar plot representing cost of various protein sources for 20 gr of protein          |
+|Can you describe to me what this is telling you? |    Various protein sources in vegan vegetarian and non vegetarian diet and their respective cost per 20g of protein.     |      It gives us the cost comparison between various foods for 20 g of protein       |
+|Is there anything you find surprising or confusing?   |     There aren't many vegan options        |       I expected whey protein to be more expensive as it is a product specifically for protein intake
+      |
+|Who do you think is the intended audience for this?    | General population, nutritionists, and dieticians            |   People who are looking to monitor their protein intake and their expenses           |
+|Is there anything you would change or do differently?   |   And add the average daily protein requirement of an adult according to body weight.          |      I would use a different color for vegetarian bar as its similar to vegan
+Maybe change the title, make it sound more catchy 
+       |
 
 Synthesis: 
 
