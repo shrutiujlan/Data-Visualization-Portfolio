@@ -117,14 +117,12 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Interview 1 student, early 20's | Interview 2 student, mid  20's|
 |----------|-------------|-------------|
-|Can you tell me what you think this is?     |     Statistical representation of cost of various food items containing 20g protein         |   It is a bar plot representing cost of various protein sources for 20 gr of protein          |
+|Can you tell me what you think this is?     |     Statistical representation of the cost of various food items containing 20g protein         |   It is a bar plot representing cost of various protein sources for 20 gr of protein          |
 |Can you describe to me what this is telling you? |    Various protein sources in vegan vegetarian and non vegetarian diet and their respective cost per 20g of protein.     |      It gives us the cost comparison between various foods for 20 g of protein       |
 |Is there anything you find surprising or confusing?   |     There aren't many vegan options        |       I expected whey protein to be more expensive as it is a product specifically for protein intake
       |
 |Who do you think is the intended audience for this?    | General population, nutritionists, and dieticians            |   People who are looking to monitor their protein intake and their expenses           |
-|Is there anything you would change or do differently?   |   And add the average daily protein requirement of an adult according to body weight.          |      I would use a different color for vegetarian bar as its similar to vegan
-Maybe change the title, make it sound more catchy 
-       |
+|Is there anything you would change or do differently?   |   And add the average daily protein requirement of an adult according to body weight.          |      1. I would use a different color for vegetarian bar as its similar to vegan 2. Maybe change the title, make it sound more catchy |
 
 Synthesis: 
 
