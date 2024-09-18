@@ -58,7 +58,7 @@ Y-Axis Scale: The scale could use smaller increments (e.g., 0.5) to better highl
 No Data Source: The data source is not included, which affects the credibility of the visualization.
 
 ### What I Like
-Intuitive Design: The chart is straightforward and easy to understand.
+Intuitive Design: The bar chart is straightforward to understand it clearly does the cost comparison between various food sources
 
 Clean Layout: Despite some clutter, the overall design is clean and organized.
 
@@ -107,6 +107,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
 
+I chose a bar chart to represent the protein data because it clearly displays the cost per 20g of protein across different food sources, it makes it easy to compare prices at a glance and is intuitive and familiar to most viewers. The use of bars allows for straightforward visual comparison, highlighting differences in cost effectiveness.
 
 To transform the original visualization into my first draft, I used the following process based on the recommendations above:
 
@@ -187,10 +188,10 @@ To transform my initial visualization into the final redesign, I followed this p
 
 1. Changed the title to a more engaging one, similar to the original visualization. Included the Currencytupe in the title.
 2. Updated the bar graph colors using Tableau’s color palette (similar tint and shade), ensuring distinct colors for each food category.
-3. Inspired by Andy Kriebel’s Monday Makeover video on the same dataset, I added an average line from the analytics tab to provide users with a baseline for cost comparison.
-4. Increased the font size of the title for better visibility.
-5. Removed the x axis header as it was not adding any value since the currency types was mentioned in the title
-6. Published the visualization to Tableau Public and embedded it into my GitHub portfolio using Markdown.
+3. Inspired by Andy Kriebel’s Monday Makeover video on the same dataset, I added an average line from the analytics tab to provide users with a baseline for cost comparison. Link to the video: https://www.youtube.com/watch?v=45pgu_SrZsg&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=54
+5. Increased the font size of the title for better visibility.
+6. Removed the x axis header as it was not adding any value since the currency types was mentioned in the title
+7. Published the visualization to Tableau Public and embedded it into my GitHub portfolio using Markdown.
 
 
 #### Final thoughts on the process:
