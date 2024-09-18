@@ -2,17 +2,15 @@
 
 # Critique By Design - Assignment 3
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
-
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 Title: The Cheapest Ways to Get Your Protein
-Link to the Vitualization
-https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet
+
+Link to the Vitualization: https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet
+
+
 Snippet:
+
 ![image](https://github.com/user-attachments/assets/04a46314-0158-4348-b3e4-183dbed50cdd)
 
 
@@ -21,7 +19,6 @@ Snippet:
 I chose this visualization because I'm into fitness and monitor my protein intake closely, with a particular interest in vegetarian options. The chart effectively highlights the cost per 30g of protein, allowing me to compare the cost-effectiveness of different sources.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 Critique of the Data Visualization based on Stephen Few's Data Visualization Effectiveness Profile
 #### Usefulness
@@ -48,32 +45,47 @@ The visualization is engaging, but including more data points could enhance inte
 
 ### What I Don't Like
 Cluttered Illustrations: The food item illustrations are cluttering the visualization and can distract from the data. They add little value since the labels already indicate the food item. The chart discusses 30g portions, but the illustrations display entire packages, which may mislead users.
+
 Discrepancies: There are inconsistencies between the bar heights and the dataset values, which could confuse viewers eg. According to the dataset  for 30g of protein from Salmon costs around 3.53 but the visualization shows it around 4 
+
 Calorie Information: The calorie count is included but doesn't add value when the focus is on cost-effectiveness. Additionally, the dataset does not provide the calorie value for each food item, making the data source unreliable.
+
 Missing Data: Some items, especially those relevant to vegan and vegetarian audiences, are missing from the dataset.
+
 Bar Width: The bars are too wide, contributing to a cluttered appearance. Narrower bars would improve clarity.
+
 Y-Axis Scale: The scale could use smaller increments (e.g., 0.5) to better highlight small cost differences.
 No Data Source: The data source is not included, which affects the credibility of the visualization.
 
 ### What I Like
 Intuitive Design: The chart is straightforward and easy to understand.
+
 Clean Layout: Despite some clutter, the overall design is clean and organized.
+
 Engaging Presentation: The visualization is engaging and draws the viewer's attention.
+
 Clear Context: The chart provides context with a clear title and labels, making it easy to grasp the main idea.
 
 ### Recommendations
 Simplify Illustrations: Remove the food illustrations to reduce clutter.
+
 Enhance Color Contrast: Use more distinct colors for each food category (vegan, vegetarian, and non-vegetarian) to improve differentiation.
+
 Ensure Data Accuracy: Align the bar heights with the dataset values to ensure consistency.
+
 Focus on Relevant Data: Remove calorie information if it doesn't contribute to the cost analysis.
+
 Include Comprehensive Data: Add missing items to the dataset to cater to diverse dietary preferences (vegan, vegetarian, and non-vegetarian).
+
 Adjust Bar Width: Narrow the bars slightly for a cleaner appearance.
+
 Refine Y-Axis Scale: Use smaller increments to make cost differences more apparent.
+
 Include Data Source: Add the data source to enhance the reliability of the visualization.
 
 Primary Audience
-The evaluation method using Stephen Few's criteria is successful in providing a detailed analysis of the data visualization's strengths and weaknesses. It covers aspects such as usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement. However, it could benefit from including measures for interactivity and data source transparency.
-In comparison, the Good Charts method focuses on design execution and contextual awareness. It evaluates typography, color, visualization type, cognition, and scale. This approach is broader and emphasizes the visual and contextual elements of the chart.
+
+The primary audience is likely individuals interested in nutrition and cost-effective protein sources. The visualization is somewhat effective for this audience but could be improved with more comprehensive data, such as categorizing foods by type (vegan, vegetarian, and non-vegetarian)
 
 
 ## Step three: Sketch a solution
@@ -94,11 +106,25 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
 
+
+To transform the original visualization into my first draft, I used the following process based on the recommendations above:
+
+1. I began by importing the dataset into Tableau 
+2. Placed Cost per 20 grams of protein on the Columns shelf and Protein Source"on the Rows shelf.
+3. Sorted protein sources by cost in ascending order to show affordability.
+4. Clicked on show marked labels, changed the decimal points.
+5. Created a calculated field to categorize protein sources as vegan, vegetarian, or non-vegetarian. Applied these categories to the Color mark for visual differentiation.
+6. Assigned specific colors to each category: light green for vegan, dark green for vegetarian, and brown for non-vegetarian.
+7. Removed the grid lines.
+8. Adjusted the chart title to make it clear and engaging and also added the data source.
+9. Published the visualization to Tableau Public. Embedded the chart into your GitHub portfolio using Markdown.
+
+
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+#### Script 
 
-Questions to ask (modify these for your own interviews): 
+Questions to ask: 
 
 - Can you tell me what you think this is?
 
@@ -110,10 +136,7 @@ Questions to ask (modify these for your own interviews):
 
 - Is there anything you would change or do differently?
 
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
+Results:
 
 | Question | Interview 1 student, early 20's | Interview 2 student, mid  20's|
 |----------|-------------|-------------|
@@ -156,7 +179,15 @@ vizElement.style.height='827px';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+To transform my initial visualization into the final redesign, I followed this process based on the feedback:
+
+1. Changed the title to a more engaging one, similar to the original visualization.
+2. Updated the bar graph colors using Tableau’s color palette (similar tint and shade), ensuring distinct colors for each food category.
+3. Inspired by Andy Kriebel’s Monday Makeover video on the same dataset, I added an average line from the analytics tab to provide users with a baseline for cost comparison.
+4. Increased the font size of the title for better visibility.
+5. Published the visualization to Tableau Public and embedded it into my GitHub portfolio using Markdown.
 
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+#### Final thoughts on the process:
 
+I believe the entire process of redesigning the visualization from scratch was a practical and insightful experience. Critiquing the original visualizations allowed me to identify areas for improvement, which I incorporated into the first draft. The interview process provided diverse perspectives and helped me understand viewer needs better. Feedback from class critiques was invaluable in refining the design to be engaging and easy to understand. Overall, this iterative process was crucial in achieving the best possible design.
