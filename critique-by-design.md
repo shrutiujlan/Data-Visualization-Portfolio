@@ -119,15 +119,44 @@ _Don't identify or share personally identifiable information (PII) about the peo
 |----------|-------------|-------------|
 |Can you tell me what you think this is?     |     Statistical representation of the cost of various food items containing 20g protein         |   It is a bar plot representing cost of various protein sources for 20 gr of protein          |
 |Can you describe to me what this is telling you? |    Various protein sources in vegan vegetarian and non vegetarian diet and their respective cost per 20g of protein.     |      It gives us the cost comparison between various foods for 20 g of protein       |
-|Is there anything you find surprising or confusing?   |     There aren't many vegan options        |       I expected whey protein to be more expensive as it is a product specifically for protein intake |
+|Is there anything you find surprising or confusing?   |     It is pretty clear, I'm just suprised that there aren't many vegan options        |       I expected whey protein to be more expensive as it is a product specifically for protein intake |
 | Who do you think is the intended audience for this?    | General population, nutritionists, and dieticians            |   People who are looking to monitor their protein intake and their expenses |
-|Is there anything you would change or do differently?   |   And add the average daily protein requirement of an adult according to body weight.          |      1. I would use a different color for vegetarian bar as its similar to vegan 2. Maybe change the title, make it sound more catchy |
+|Is there anything you would change or do differently?   |   And add the average daily protein requirement of an adult according to body weight. The bar colors aren't of the same tint, shade, maybe change that so that its more pleasing to watch        |    I would use a different color for vegetarian bar as its similar to vegan. Also, maybe change the title, make it sound more catchy |
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+#### Patterns in Feedback:
+1. Both interviewees correctly understood the visualization as a cost comparison of protein sources per 20g, which shows that your design is effective in communicating the primary message.
+2. They identified the indended audience correctly 
+3. Both interviewees mentioned some issues with the color. The first interviewer mentioned that the colors aren't as aesthetically pleasing, and the second interviewer mentioned that colors arent distinct enough for each food category.
+Title:
+4. The second interviewer mentioned the title could be more engaging
+#### Learnings from feedback
+1. Colors plays a major rolein the interpretation of the dara in virtualization.
+2. Title helps alot in giving context to the viewers  
+#### Updated Design Changes for Final Redesign:
+Color Palette Consistency: Interview 1 mentioned that the colors should be of the same tint or shade for a more pleasing visual experience, I will try to use colors from the color palettes defined by Tableau.  Additionally, Interview 2 mentioned that the vegetarian bars look too similar to vegan bars. I’ll use a more distinct color scheme where each category (vegan - green, vegetarian - yellow, non-vegetarian - brown/red) to ensure it has clear differentiation but is cohesive in terms of style. 
+Catchier Title: Instead of the current descriptive title, I’ll try something more eye-catching like "How Much Does 20g of Protein Really Cost?" This makes the chart more inviting and engaging and also tells a story.
 
 ## Step five: build the solution
+
+<div class='tableauPlaceholder' id='viz1726622054510' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Protein_Cost_17265508664490&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Protein_Cost_17265508664490&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;Protein_Cost_17265508664490&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1726622054510');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  if ( divElement.offsetWidth > 800 ) { 
+  vizElement.style.width='1000px';vizElement.style.height='827px';
+ } else if ( divElement.offsetWidth > 500 ) { 
+  vizElement.style.width='1000px';
+vizElement.style.height='827px';
+  } else { vizElement.style.width='100%';vizElement.style.height='727px';
+         }               
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
