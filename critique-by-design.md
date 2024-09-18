@@ -163,6 +163,7 @@ Synthesis:
 2. Title helps a lot in giving context to the viewers  
 #### Updated Design Changes for Final Redesign:
 Color Palette Consistency: Interview 1 mentioned that the colors should be of the same tint or shade for a more pleasing visual experience, I will try to use colors from the color palettes defined by Tableau.  Additionally, Interview 2 mentioned that the vegetarian bars look too similar to vegan bars. I’ll use a more distinct color scheme where each category (vegan - green, vegetarian - yellow, non-vegetarian - brown/red) to ensure it has clear differentiation but is cohesive in terms of style. 
+
 Catchier Title: Instead of the current descriptive title, I’ll try something more eye-catching like "How Much Does 20g of Protein Really Cost?" This makes the chart more inviting and engaging and also tells a story.
 
 ## Step five: build the solution
