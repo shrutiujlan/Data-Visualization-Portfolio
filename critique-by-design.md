@@ -107,12 +107,13 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
 
+
 To transform the original visualization into my first draft, I used the following process based on the recommendations above:
 
 1. I began by importing the dataset into Tableau 
-2. Placed Cost per 20 grams of protein on the Columns shelf and Protein Source"on the Rows shelf.
+2. Placed Cost per 20 grams of protein on the Columns shelf and Protein Source on the Rows shelf.
 3. Sorted protein sources by cost in ascending order to show affordability.
-4. Clicked on show marked labels, changed the decimal points.
+4. Clicked on show marked labels, change the decimal points.
 5. Created a calculated field to categorize protein sources as vegan, vegetarian, or non-vegetarian. Applied these categories to the Color mark for visual differentiation.
 6. Assigned specific colors to each category: light green for vegan, dark green for vegetarian, and brown for non-vegetarian.
 7. Removed the grid lines.
@@ -130,7 +131,9 @@ Questions to ask:
 
 - Can you describe to me what this is telling you?
 
-- Is there anything you find surprising or confusing?
+- Is there anything you find confusing?
+  
+- Do any design elements (like gridlines, and colors) distract you from the visualization? 
 
 - Who do you think is the intended audience for this?
 
@@ -142,7 +145,8 @@ Results:
 |----------|-------------|-------------|
 |Can you tell me what you think this is?     |     Statistical representation of the cost of various food items containing 20g protein         |   It is a bar plot representing cost of various protein sources for 20 gr of protein          |
 |Can you describe to me what this is telling you? |    Various protein sources in vegan vegetarian and non vegetarian diet and their respective cost per 20g of protein.     |      It gives us the cost comparison between various foods for 20 g of protein       |
-|Is there anything you find surprising or confusing?   |     It is pretty clear, I'm just suprised that there aren't many vegan options        |       I expected whey protein to be more expensive as it is a product specifically for protein intake |
+|Is there anything you find confusing?   |     It is pretty clear       |    It appears pretty straightforward   |
+| Do any design elements (like gridlines, and colors) distract you from the visualization? | I find the brown color used for non-vegetarian food items too bright | No |
 | Who do you think is the intended audience for this?    | General population, nutritionists, and dieticians            |   People who are looking to monitor their protein intake and their expenses |
 |Is there anything you would change or do differently?   |   And add the average daily protein requirement of an adult according to body weight. The bar colors aren't of the same tint, shade, maybe change that so that its more pleasing to watch        |    I would use a different color for vegetarian bar as its similar to vegan. Also, maybe change the title, make it sound more catchy |
 
@@ -151,12 +155,11 @@ Synthesis:
 #### Patterns in Feedback:
 1. Both interviewees correctly understood the visualization as a cost comparison of protein sources per 20g, which shows that your design is effective in communicating the primary message.
 2. They identified the indended audience correctly 
-3. Both interviewees mentioned some issues with the color. The first interviewer mentioned that the colors aren't as aesthetically pleasing, and the second interviewer mentioned that colors arent distinct enough for each food category.
-Title:
+3. Both interviewees mentioned some issues with the color. The first interviewer mentioned that the colors aren't as aesthetically pleasing or too bright, and the second interviewer mentioned that colors arent distinct enough for each food category.
 4. The second interviewer mentioned the title could be more engaging
 #### Learnings from feedback
-1. Colors plays a major rolein the interpretation of the dara in virtualization.
-2. Title helps alot in giving context to the viewers  
+1. Colors play a major role in the interpretation of the data in virtualization, they can also impact where the viewer will focus first
+2. Title helps a lot in giving context to the viewers  
 #### Updated Design Changes for Final Redesign:
 Color Palette Consistency: Interview 1 mentioned that the colors should be of the same tint or shade for a more pleasing visual experience, I will try to use colors from the color palettes defined by Tableau.  Additionally, Interview 2 mentioned that the vegetarian bars look too similar to vegan bars. I’ll use a more distinct color scheme where each category (vegan - green, vegetarian - yellow, non-vegetarian - brown/red) to ensure it has clear differentiation but is cohesive in terms of style. 
 Catchier Title: Instead of the current descriptive title, I’ll try something more eye-catching like "How Much Does 20g of Protein Really Cost?" This makes the chart more inviting and engaging and also tells a story.
@@ -178,6 +181,7 @@ vizElement.style.height='827px';
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 
 To transform my initial visualization into the final redesign, I followed this process based on the feedback:
 
