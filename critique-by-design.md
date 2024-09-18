@@ -121,6 +121,7 @@ To transform the original visualization into my first draft, I used the followin
 8. Adjusted the chart title to make it clear and engaging and also added the data source.
 9. Published the visualization to Tableau Public. Embedded the chart into your GitHub portfolio using Markdown.
 
+I used chat-gpt to help me with the steps for adding a calculated field to categorize protein sources 
 
 ## Step four: Test the solution
 
