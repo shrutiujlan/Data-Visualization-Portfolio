@@ -181,11 +181,12 @@ vizElement.style.height='827px';
 
 To transform my initial visualization into the final redesign, I followed this process based on the feedback:
 
-1. Changed the title to a more engaging one, similar to the original visualization.
+1. Changed the title to a more engaging one, similar to the original visualization. Included the Currencytupe in the title.
 2. Updated the bar graph colors using Tableau’s color palette (similar tint and shade), ensuring distinct colors for each food category.
 3. Inspired by Andy Kriebel’s Monday Makeover video on the same dataset, I added an average line from the analytics tab to provide users with a baseline for cost comparison.
 4. Increased the font size of the title for better visibility.
-5. Published the visualization to Tableau Public and embedded it into my GitHub portfolio using Markdown.
+5. Removed the x axis header as it was not adding any value since the currency types was mentioned in the title
+6. Published the visualization to Tableau Public and embedded it into my GitHub portfolio using Markdown.
 
 
 #### Final thoughts on the process:
