@@ -4,6 +4,7 @@
 # Outline
 
 This project aims to analyze and visualize New York City's restaurant inspection data to provide insights into food safety trends, geographical patterns, and the impact of inspections on the city's dining scene. By exploring this rich dataset, we'll uncover stories about neighborhood food safety, common violations, and how restaurants have adapted to health regulations over time. The project will offer valuable information for NYC residents, tourists, restaurant owners, and policymakers, providing a data-driven perspective on the state of food safety in one of the world's culinary capitals.
+
 Our analysis will focus on identifying trends in inspection scores, mapping food safety across different boroughs and neighborhoods, and examining the most common violations. We'll also investigate how inspection results have changed over time, particularly in response to major events like the COVID-19 pandemic. By presenting this information through interactive visualizations, we aim to make complex data accessible and engaging for our audience.
  
 # Project Structure
