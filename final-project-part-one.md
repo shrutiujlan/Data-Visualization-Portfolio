@@ -39,7 +39,7 @@ Call to Action: The project will highlight how NYC residents, tourists, restaura
 
 ## Initial sketches
 
-![image](https://github.com/user-attachments/assets/fd59da1f-58a6-468c-80c8-ecd860c41ff4)
+![image](https://github.com/user-attachments/assets/80abc7f1-8994-4e76-a49b-50178e936f04)
 
 ![image](https://github.com/user-attachments/assets/a500e3ac-1331-4c17-9caa-438b50a46c06)
 
