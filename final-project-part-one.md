@@ -22,29 +22,29 @@ By analyzing and visualizing restaurant inspection data, we can identify trends,
 ![image](https://github.com/user-attachments/assets/dc91274a-62a3-4d9d-a4be-9f0c104e0afa)
 
 
+### Setup:
+Initial Success: NYC has a well-established restaurant inspection system that helps ensure food safety across one of the world's culinary capitals. The city generates abundant data from inspections, allowing insights into trends and safety.
+Food Safety System Overview: New York’s diverse food scene is heavily regulated with rigorous health inspections to maintain safety for consumers, making dining in the city relatively safe.
+
+### Conflict:
+Problem Emerges: Despite the extensive system, food safety violations are common, and the data reveals patterns of critical and non-critical violations. Some restaurants receive poor inspection grades due to recurring issues, and violations are concentrated in certain boroughs or neighborhoods.
+Waste and Environmental Impact: Restaurants failing inspections often contribute to food waste and may face legal or operational challenges. These violations have a broader environmental impact, as food waste contributes to carbon emissions.
+COVID-19 Complications: The pandemic drastically altered inspection trends, with some businesses struggling to meet safety guidelines, while others adapted or closed, creating a volatile situation in maintaining food safety.
+
+### Resolution:
+Adapting to Regulations: Many restaurants have improved their compliance with health regulations over time, leading to fewer critical violations. Insights from the data show how some neighborhoods are turning into "safe zones."
+Public and Restaurant Owner Empowerment: By making this information more accessible to consumers and restaurant owners through visualizations and insights, the public can make informed dining choices, and restaurants can learn how to avoid violations.
+Call to Action: The project will highlight how NYC residents, tourists, restaurant owners, and policymakers can engage with the data to make better decisions—whether it’s about choosing safer dining options or improving restaurant management.
+
 ## Initial sketches
 
-![image](https://github.com/user-attachments/assets/d261c62d-0f09-4244-b9c0-22846a71005d)
+![image](https://github.com/user-attachments/assets/fd59da1f-58a6-468c-80c8-ecd860c41ff4)
 
 ![image](https://github.com/user-attachments/assets/a500e3ac-1331-4c17-9caa-438b50a46c06)
 
 ![image](https://github.com/user-attachments/assets/64262123-5efe-4df6-9a2c-ca5944e9f939)
 
 ![image](https://github.com/user-attachments/assets/c4f07b7e-c9b5-40c3-8864-c0a0fd7ad526)
-
-## Setup:
-Initial Success: NYC has a well-established restaurant inspection system that helps ensure food safety across one of the world's culinary capitals. The city generates abundant data from inspections, allowing insights into trends and safety.
-Food Safety System Overview: New York’s diverse food scene is heavily regulated with rigorous health inspections to maintain safety for consumers, making dining in the city relatively safe.
-
-## Conflict:
-Problem Emerges: Despite the extensive system, food safety violations are common, and the data reveals patterns of critical and non-critical violations. Some restaurants receive poor inspection grades due to recurring issues, and violations are concentrated in certain boroughs or neighborhoods.
-Waste and Environmental Impact: Restaurants failing inspections often contribute to food waste and may face legal or operational challenges. These violations have a broader environmental impact, as food waste contributes to carbon emissions.
-COVID-19 Complications: The pandemic drastically altered inspection trends, with some businesses struggling to meet safety guidelines, while others adapted or closed, creating a volatile situation in maintaining food safety.
-
-## Resolution:
-Adapting to Regulations: Many restaurants have improved their compliance with health regulations over time, leading to fewer critical violations. Insights from the data show how some neighborhoods are turning into "safe zones."
-Public and Restaurant Owner Empowerment: By making this information more accessible to consumers and restaurant owners through visualizations and insights, the public can make informed dining choices, and restaurants can learn how to avoid violations.
-Call to Action: The project will highlight how NYC residents, tourists, restaurant owners, and policymakers can engage with the data to make better decisions—whether it’s about choosing safer dining options or improving restaurant management.
 
 # The data
 
@@ -59,6 +59,6 @@ I plan to use "DOHMH New York City Restaurant Inspection Results" dataset availa
 
 I plan to use the following tools for my final Project:
 
-Tableau and Rawgraphs for Vizualizations
-Shorthand for final story narrative
-Figma for Wireframing
+- Tableau and Rawgraphs for Vizualizations
+- Shorthand for final story narrative
+- Figma for Wireframing
