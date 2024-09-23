@@ -1,36 +1,64 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) |  [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+
+This project aims to analyze and visualize New York City's restaurant inspection data to provide insights into food safety trends, geographical patterns, and the impact of inspections on the city's dining scene. By exploring this rich dataset, we'll uncover stories about neighborhood food safety, common violations, and how restaurants have adapted to health regulations over time. The project will offer valuable information for NYC residents, tourists, restaurant owners, and policymakers, providing a data-driven perspective on the state of food safety in one of the world's culinary capitals.
+Our analysis will focus on identifying trends in inspection scores, mapping food safety across different boroughs and neighborhoods, and examining the most common violations. We'll also investigate how inspection results have changed over time, particularly in response to major events like the COVID-19 pandemic. By presenting this information through interactive visualizations, we aim to make complex data accessible and engaging for our audience.
  
-Text here...
+# Project Structure
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+Setup: The Importance of Food Safety in New York City's Dining Scene
+New York City is renowned for its diverse and vibrant restaurant scene, offering cuisines from around the world. With thousands of establishments serving millions of residents and visitors daily, ensuring food safety is paramount for public health and the city's reputation as a culinary capital.
 
-Text here...
+Conflict: Challenges in Maintaining Food Safety Standards
+Despite rigorous inspection processes, many restaurants struggle to consistently meet food safety standards. Violations range from minor infractions to serious health hazards, potentially putting diners at risk. The complexity of running a restaurant in a fast-paced urban environment, coupled with varying levels of food safety knowledge among staff, contributes to ongoing challenges in maintaining high standards across the city.
+
+Resolution: Leveraging Data to Improve Food Safety and Inform the Public
+By analyzing and visualizing restaurant inspection data, we can identify trends, highlight areas for improvement, and empower both restaurant owners and diners. This data-driven approach can lead to more targeted interventions by health officials, better training programs for restaurant staff, and increased awareness among consumers about food safety in their favorite eateries.
+
+# Story Arc
+
+![image](https://github.com/user-attachments/assets/dc91274a-62a3-4d9d-a4be-9f0c104e0afa)
+
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+![image](https://github.com/user-attachments/assets/d261c62d-0f09-4244-b9c0-22846a71005d)
+
+![image](https://github.com/user-attachments/assets/a500e3ac-1331-4c17-9caa-438b50a46c06)
+
+![image](https://github.com/user-attachments/assets/64262123-5efe-4df6-9a2c-ca5944e9f939)
+
+![image](https://github.com/user-attachments/assets/c4f07b7e-c9b5-40c3-8864-c0a0fd7ad526)
+
+## Setup:
+Initial Success: NYC has a well-established restaurant inspection system that helps ensure food safety across one of the world's culinary capitals. The city generates abundant data from inspections, allowing insights into trends and safety.
+Food Safety System Overview: New York’s diverse food scene is heavily regulated with rigorous health inspections to maintain safety for consumers, making dining in the city relatively safe.
+
+## Conflict:
+Problem Emerges: Despite the extensive system, food safety violations are common, and the data reveals patterns of critical and non-critical violations. Some restaurants receive poor inspection grades due to recurring issues, and violations are concentrated in certain boroughs or neighborhoods.
+Waste and Environmental Impact: Restaurants failing inspections often contribute to food waste and may face legal or operational challenges. These violations have a broader environmental impact, as food waste contributes to carbon emissions.
+COVID-19 Complications: The pandemic drastically altered inspection trends, with some businesses struggling to meet safety guidelines, while others adapted or closed, creating a volatile situation in maintaining food safety.
+
+## Resolution:
+Adapting to Regulations: Many restaurants have improved their compliance with health regulations over time, leading to fewer critical violations. Insights from the data show how some neighborhoods are turning into "safe zones."
+Public and Restaurant Owner Empowerment: By making this information more accessible to consumers and restaurant owners through visualizations and insights, the public can make informed dining choices, and restaurants can learn how to avoid violations.
+Call to Action: The project will highlight how NYC residents, tourists, restaurant owners, and policymakers can engage with the data to make better decisions—whether it’s about choosing safer dining options or improving restaurant management.
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+I plan to use "DOHMH New York City Restaurant Inspection Results" dataset available on the NYC OpenData platform to create visualizations that illustrate food safety trends across the city, identify common violations, and analyze how inspection results vary by location, cuisine type, and time. The dataset's temporal aspect will allow us to examine how food safety has evolved over the years and how restaurants have responded to changing health regulations.
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| DOHMH New York City Restaurant Inspection Results     |   https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j  | A comprehensive dataset which includes information on restaurant inspections conducted in New York City from 2014 to the present. It contains details such as restaurant names, locations, inspection dates, scores, violation codes and descriptions, and grade cards issued.           |
+
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I plan to use the following tools for my final Project:
+
+Tableau and Rawgraphs for Vizualizations
+Shorthand for final story narrative
+Figma for Wireframing
