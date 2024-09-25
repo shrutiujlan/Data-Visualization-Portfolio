@@ -10,7 +10,7 @@ My analysis will focus on identifying trends in inspection scores, mapping food 
 # Project Structure
 
 Setup: 
-According to the 2024 Global Tastemakers, New York City is the best city in the nation for food and drink. It is a well-liked tourist attraction with a thriving restaurant scene that features cuisines from all over the world. As NYC serves millions of visitors and locals each day, maintaining food safety is essential to the general public's health as well as the city's standing as the food capital.
+According to the 2024 Global Tastemakers [1], New York City is the best city in the nation for food and drink. It is a well-liked tourist attraction with a thriving restaurant scene that features cuisines from all over the world. As NYC serves millions of visitors and locals each day, maintaining food safety is essential to the general public's health as well as the city's standing as the food capital.
 
 Conflict: 
 Many restaurants find it difficult to continuously maintain food safety regulations, even with stringent inspection procedures in place. Violations can range from insignificant breaches to major health risks that could endanger diners. The complexity of running a restaurant in a fast-paced metropolitan environment, along with variable degrees of food safety education among workers, contributes to continual difficulty in maintaining high standards across the city.
@@ -24,12 +24,15 @@ We can spot patterns, point out areas that need work, and give diners and restau
 
 
 ## Detailed Story Outline
-### Setup: The Importance of Food Safety in New York City’s Dining Scene
+### Setup: The Importance of Food Safety in New York City’s Dining Scene 
+
 Context of the Problem:
-Begin by framing New York City as a global food capital, home to thousands of restaurants offering diverse cuisines to millions of residents and tourists. Given the scale of NYC’s restaurant industry, maintaining food safety is critical for public health. Introduce key statistics to illustrate the number of health inspections conducted annually and the percentage of restaurants that face food safety violations, setting the stage for the discussion of food safety challenges in the city.
+Begin by showing New York City as a global food capital, home to thousands of restaurants serving millions of visitors and locals each day. Given the scale of NYC’s restaurant industry, maintaining food safety is essential to the general public's health as well as the city's standing as the food capital. Introduce key statistics to illustrate the number of health inspections conducted annually and the percentage of restaurants that face food safety violations, setting the stage for the discussion of food safety challenges in the city.
 
 Underlying Causes:
 Explain the variety of factors contributing to food safety challenges, including the fast-paced nature of NYC’s dining scene, urban environment’s constraint, high staff turnover, and the different levels of food safety knowledge among restaurant workers.
+
+Key Insights: Show some connections that the general public could find helpful, such as the relationship between restaurant price category and inspection score and diner ratings and inspection score.
 
 ### Conflict: The Challenges in Ensuring Consistent Food Safety and the effects of food violations
 
@@ -38,10 +41,11 @@ Highlight the fact that despite the extensive system, food safety violations are
 
 Complexities in Restaurant Operations: Delve into the complexities that restaurant owners face in consistently meeting food safety standards, from the demands of running a busy kitchen to ensuring that staff are adequately trained and knowledgeable about proper food handling and sanitation practices.
 
-Pandemic-Related Complications: Delve into the complexities caused by the COVID-19 pandemic, affected the restaurant inspection grading . Explore issues faced by restaurants like compliance with new regulations, staffing shortages, and operational shifts toward delivery and takeout presented new challenges.
+Pandemic-Related Complications: Delve into the complexities caused by the COVID-19 pandemic,and how affected the restaurant inspection grading. Explore issues faced by restaurants like compliance with new regulations, staffing shortages, and operational shifts toward delivery and takeouts.
 
 ### Resolution: Strategies for Food Safety Improvements
-Adapting to Regulations: Many restaurants have improved their compliance with health regulations over time, leading to fewer critical violations. Insights from the data show how some neighborhoods are turning into safe zones
+
+Adapting to Regulations: Showcase improvements in compliance with health regulations over time at restaurants. Insights from the data can show how some neighborhoods are turning into safe zones
 
 Public and Restaurant Owner Empowerment: By making this information more accessible to consumers and restaurant owners through visualizations and insights, the public can make informed dining choices, and restaurants can learn how to avoid violations.
 
@@ -80,4 +84,4 @@ I plan to use the following tools for my final Project:
 
 # Sources
 
-- https://www.foodandwine.com/global-tastemakers-best-united-states-cities-food-drink-2024-8620202
+- [1] https://www.foodandwine.com/global-tastemakers-best-united-states-cities-food-drink-2024-8620202
