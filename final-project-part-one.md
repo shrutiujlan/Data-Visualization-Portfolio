@@ -24,14 +24,14 @@ We can spot patterns, point out areas that need work, and give diners and restau
 
 
 ## Detailed Story Outline
-### Setup:
+### Setup: The Importance of Food Safety in New York City’s Dining Scene
 Context of the Problem:
 Begin by framing New York City as a global food capital, home to thousands of restaurants offering diverse cuisines to millions of residents and tourists. Given the scale of NYC’s restaurant industry, maintaining food safety is critical for public health. Introduce key statistics to illustrate the number of health inspections conducted annually and the percentage of restaurants that face food safety violations, setting the stage for the discussion of food safety challenges in the city.
 
 Underlying Causes:
 Explain the variety of factors contributing to food safety challenges, including the fast-paced nature of NYC’s dining scene, urban environment’s constraint, high staff turnover, and the different levels of food safety knowledge among restaurant workers.
 
-### Conflict:
+### Conflict: The Challenges in Ensuring Consistent Food Safety and the effects of food violations
 
 Impact of Food Safety Violations:
 Highlight the fact that despite the extensive system, food safety violations are common, and the data reveals patterns of critical and non-critical violations. Briefly outline the consequences of food safety violations, like the potential health risks for consumers eg. foodborne illnesses, economic consequences for restaurants like fines, shutdowns, loss of reputation.
@@ -40,7 +40,7 @@ Complexities in Restaurant Operations: Delve into the complexities that restaura
 
 Pandemic-Related Complications: Delve into the complexities caused by the COVID-19 pandemic, affected the restaurant inspection grading . Explore issues faced by restaurants like compliance with new regulations, staffing shortages, and operational shifts toward delivery and takeout presented new challenges.
 
-### Resolution:
+### Resolution: Strategies for Food Safety Improvements
 Adapting to Regulations: Many restaurants have improved their compliance with health regulations over time, leading to fewer critical violations. Insights from the data show how some neighborhoods are turning into safe zones
 
 Public and Restaurant Owner Empowerment: By making this information more accessible to consumers and restaurant owners through visualizations and insights, the public can make informed dining choices, and restaurants can learn how to avoid violations.
