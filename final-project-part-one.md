@@ -59,7 +59,7 @@ Call to Action: Conclude with a strong call to action for restaurant owners, pol
 
 # The data
 
-I plan to use "DOHMH New York City Restaurant Inspection Results" dataset available on the NYC OpenData platform to create visualizations that illustrate food safety trends across the city, identify common violations, and analyze how inspection results vary by location, cuisine type, and time. The dataset's temporal aspect will allow us to examine how food safety has evolved over the years and how restaurants have responded to changing health regulations.
+I plan to use "DOHMH New York City Restaurant Inspection Results" dataset available on the NYC OpenData platform to create visualizations that illustrate food safety trends across the city, identify common violations, and analyze how inspection results vary by location, cuisine type, and time. The dataset contains data from 2014 to 2024, this will allow us to examine how food safety has evolved over the years and how restaurants have responded to changing health regulations.
 Based on the in-class critique, I was suggested to have a more comprehensive dataset so that I can create a story, I decided to use  "NYC Restaurants Ratings" from kaggle and yelp API get data on the restaurant ratings and price category.
 
 | Name | URL | Description |
