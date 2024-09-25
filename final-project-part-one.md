@@ -3,14 +3,14 @@
 
 # Outline
 
-In this project, I am going to analyze and visualize New York City's restaurant inspection data to provide insights into food safety trends, geographical patterns, and the impact of inspections on the city's dining scene. By exploring the huge dataset, I'll uncover stories about neighborhood food safety, common violations, and how restaurants have adapted to health regulations over the years. The project will provide valuable information for NYC residents, tourists, restaurant owners, and policymakers, providing a data driven perspective on the state of food safety in one of the world's culinary capitals.
+In this project, I am going to analyze and visualize New York City's restaurant inspection data to provide insights into food safety trends, geographical patterns, and the impact of inspections on the city's dining scene. By exploring the huge dataset, I'll uncover stories about neighborhood food safety, common violations, and how restaurants have adapted to health regulations over the years. The project will provide valuable information for NYC residents, tourists, restaurant owners, and policymakers, providing a data driven perspective on the state of food safety in one of the world's food capitals.
 
 My analysis will focus on identifying trends in inspection scores, mapping food safety across different neighborhoods, examining the most common violations. I'll also represent how inspection results have changed over time, and also how they were impacted COVID-19 pandemic. Additionaly, to make it even useful for the audience, I'll represent a correlation between the restaurant ratings and price category with the restaurant inspection data. By presenting this information through interactive visualizations, I aim to make complex data accessible and engaging for the audience. 
  
 # Project Structure
 
 Setup: 
-According to the 2024 Global Tastemakers [1], New York City is the best city in the nation for food and drink. It is a well-liked tourist attraction with a thriving restaurant scene that features cuisines from all over the world. As NYC serves millions of visitors and locals each day, maintaining food safety is essential to the general public's health as well as the city's standing as the food capital.
+According to the 2024 Global Tastemakers [1], New York City is the best city in the United States for food and drink. It is a well-liked tourist attraction with a thriving restaurant scene that features cuisines from all over the world. As NYC serves millions of visitors and locals each day, maintaining food safety is essential to the general public's health as well as the city's standing as the food capital.
 
 Conflict: 
 Many restaurants find it difficult to continuously maintain food safety regulations, even with stringent inspection procedures in place. Violations can range from insignificant breaches to major health risks that could endanger diners. The complexity of running a restaurant in a fast-paced metropolitan environment, along with variable degrees of food safety education among workers, contributes to continual difficulty in maintaining high standards across the city.
@@ -85,3 +85,4 @@ I plan to use the following tools for my final Project:
 # Sources
 
 - [1] https://www.foodandwine.com/global-tastemakers-best-united-states-cities-food-drink-2024-8620202
+- [2] https://localpov.com/posts/new-york-city-is-the-food-capital-of-the-world
