@@ -84,7 +84,7 @@ For the purpose of this user research, I picked three participants belonging to 
 Ensure Dashboard 2 clearly indicates it's about NYC.
 #### Key Quote: *“Give some context to the viewers in Dashboard 2 about the scoring system by writing a small paragraph”*
 
-### Interviewee 3: : Asian, Working Professional, F(37)
+### Interviewee 3: : Asian, Working Professional, F(37), New Jersey
 #### Key Insights:
 - The first dashboard was easy to understand and provided interesting insights. 
 - The alignment of the charts in the Dashboard 1 are not quite right
