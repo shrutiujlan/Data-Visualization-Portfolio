@@ -9,7 +9,7 @@ The artifacts for this stage were created using Python and Tableau.
 
 # User research 
 
-## Target audience and  Participant G
+## Target audience and Participant Demographics
 
 The primary audience for my story are:
 Consumers/Diners: They can make informed dining choices based on inspection results and their correlations with restaurant ratings and price category
@@ -24,23 +24,12 @@ For the purpose of this user research, I picked three participants belonging to 
 
 | Goal | Questions to Ask |
 |------|------------------|
-|   Background Questions    |    - How often do you eat out at restaurants?
-- What factors influence your choice of restaurant?
-- Are you aware of health inspection scores when choosing where to eat?
-- Do you prioritize price, quality, or safety when dining out?  |         
-|  Clarity and Usability    |   -  Were you able to quickly understand each of the visualizations?
-- Did you find any part of the dashboard confusing or unclear?              |
-|   Insights and Engagement   |         - What insights did you gain from the dashboard?
-- Did any particular visualization spark your curiosity or interest?
-- Is there anything you were left wondering about after exploring the dashboard?         |
-|   Content and Presentation   |       - Does the order and flow of information make sense to you?
-- Are there any words or phrases that were difficult to understand?
-- Do the images and visualizations contribute to your understanding?           |
-|   Target Audience and Design   |       - Who do you think is the target audience for this dashboard?
-- Can you recognize a theme or color scheme? How effective is it?   |
-|   Suggestions and Improvements   |         - What changes would you suggest for this dashboard and why?
-- Is there any additional information or data you would like to see included?         |
-|      |                  |
+|   Background Questions      |       - How often do you eat out at restaurants? - What factors influence your choice of restaurant? - Are you aware of health inspection scores when choosing where to eat? - Do you prioritize price, quality, or safety when dining out?            |     
+|  Clarity and Usability    |   -  Were you able to quickly understand each of the visualizations? - Did you find any part of the dashboard confusing or unclear?              |
+|   Insights and Engagement   |         - What insights did you gain from the dashboard? - Did any particular visualization spark your curiosity or interest? - Is there anything you were left wondering about after exploring the dashboard?         |
+|   Content, Presentation   and design |       - Does the order and flow of information make sense to you? - Are there any words or phrases that were difficult to understand? - Do the images and visualizations contribute to your understanding?    - Can you recognize a theme or color scheme? How effective is it?          |
+|   Target Audience and Design   |       - Who do you think is the target audience for this dashboard? |
+|   Suggestions and Improvements   |         - What changes would you suggest for this dashboard and why? - Is there any additional information or data you would like to see included?         |
 
 
 
