@@ -84,7 +84,10 @@ For the purpose of this user research, I picked three participants belonging to 
 
 | Goal | Questions to Ask |
 |------|------------------|
-|   Background Questions      |       1. How often do you eat out at restaurants? 2. What factors influence your choice of restaurant? 2. Are you aware of health inspection scores when choosing where to eat? 3. Do you prioritize price, quality, or safety when dining out?            |     
+|   Background Questions      |       1. How often do you eat out at restaurants? 
+2. What factors influence your choice of restaurant? 
+3. Are you aware of health inspection scores when choosing where to eat? 
+4. Do you prioritize price, quality, or safety when dining out?            |     
 |  Clarity and Usability    |   1.  Were you able to quickly understand each of the visualizations? 2. Did you find any part of the dashboard confusing or unclear?              |
 |   Insights and Engagement   |         1. What insights did you gain from the dashboard? 2. Did any particular visualization spark your curiosity or interest? 3. Is there anything you were left wondering about after exploring the dashboard?         |
 |   Content, Presentation   and design |       1. Does the order and flow of information make sense to you? 2. Are there any words or phrases that were difficult to understand? - Do the images and visualizations contribute to your understanding?    3. Can you recognize a theme or color scheme? How effective is it?          |
@@ -130,9 +133,6 @@ Ensure Dashboard 2 clearly indicates it's about NYC.
 #### Key Quote: *“I’m not quite sure what correlation means here, you can probably define it on the dashboard”*
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
