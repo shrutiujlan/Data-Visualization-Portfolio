@@ -123,7 +123,7 @@ Ensure Dashboard 2 clearly indicates it's about NYC.
 
 ### Interviewee 3: : Asian, Working Professional, F(37), New Jersey
 #### Key Insights:
-- I like the color theme being used for the map and bar chart in the Dasbboard 1, but try to use the same color theme for ther graphs as well
+- I like the color theme being used for the map and bar chart in the Dashboard 1, but try to use the same color theme for ther graphs as well
 - Line graph does not have a axis label
 - The alignment of the charts in the Dashboard 1 are not quite right
 - The idea of myth busting dashboard is really good
