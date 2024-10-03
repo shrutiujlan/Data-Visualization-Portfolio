@@ -1,8 +1,13 @@
 | [home page](https://shrutiujlan.github.io/tswd-portfolio/) | [visualizing debt](https://shrutiujlan.github.io/tswd-portfolio/visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three)
 # Wireframes / storyboards
 
-I worked on developing wireframes, and dashboards, and conducting user research to refine my storytelling concept.
-The artifacts for this stage were created using Python and Tableau. 
+I worked on developing wireframes, and dashboards, and conducting user research to refine my storytelling concept. The artifacts for this stage were created using Python and Tableau. 
+
+This project focuses on analyzing New York City's restaurant inspection data to uncover food safety trends and assess customer satisfaction through Google ratings. The goal is to provide insights that can help diners make informed decisions about where to eat, balancing safety and quality.
+
+The analysis starts by identifying the safest areas to dine in NYC, visualized through a geographical heat map. Alongside, we reveal the cuisines that tend to violate health regulations the most, as well as those with better safety records. The dashboard allows users to explore inspection grades by borough and cuisine, highlighting patterns of food safety across different regions and dining styles.
+
+Moving deeper, trends in food safety over time are displayed, showing fluctuations in restaurant grades and how these may correspond to external factors or city-wide initiatives.
 
 ### Dashboard 1:
 
@@ -13,6 +18,10 @@ The artifacts for this stage were created using Python and Tableau.
   var scriptElement = document.createElement('script');              
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);              
 </script>
+
+Next, in order to analyze the relationship between inspection scores, customer ratings, and price categories, I used Python to clean and merge two datasets: NYC restaurant inspection data and Google ratings data. This involved handling missing values, standardizing formats, and ensuring compatibility between both datasets. The combined dataset helped me in getting insights into dining safety and customer satisfaction.
+
+Finally, I examine the relationships between inspection scores, customer ratings, and price categories. Contrary to common assumptions, the data reveals a very weak correlation between these factors, challenging the idea that higher prices or higher ratings always equate to safer dining environments. This analysis, along with calculating correlation values for the same, helps debunk myths surrounding dining quality and food safety.
 
 ### Dashboard 2
 
@@ -29,6 +38,26 @@ The artifacts for this stage were created using Python and Tableau.
                                                                                                                          }                     var scriptElement = document.createElement('script');                   
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);              
 </script>
+
+
+
+Below are the code snippets showing the data merging and correlation analysis that I did using python.
+
+#### Calculating Correlation between Google ratings and price category
+
+<img width="738" alt="image" src="https://github.com/user-attachments/assets/0109129d-9792-4a62-81b4-2bd94266359f">
+
+#### Calculating Correlation between Google ratings and inspection scores
+
+<img width="779" alt="image" src="https://github.com/user-attachments/assets/eea510f0-4eca-48b8-a24c-a96ba877f72d">
+
+#### Calculating Correlation between inspection scores and price categories
+
+<img width="780" alt="image" src="https://github.com/user-attachments/assets/8c41a4b5-d89b-4c15-9e81-2f77c76ea3cc">
+
+
+Call-to-Action: By exploring these visualizations, users can better understand the safety landscape of NYC’s restaurants and make informed choices. Diners are encouraged to use this data to balance their food preferences with safety concerns.
+
 
 # User research 
 
@@ -47,12 +76,12 @@ For the purpose of this user research, I picked three participants belonging to 
 
 | Goal | Questions to Ask |
 |------|------------------|
-|   Background Questions      |       - How often do you eat out at restaurants? - What factors influence your choice of restaurant? - Are you aware of health inspection scores when choosing where to eat? - Do you prioritize price, quality, or safety when dining out?            |     
-|  Clarity and Usability    |   -  Were you able to quickly understand each of the visualizations? - Did you find any part of the dashboard confusing or unclear?              |
-|   Insights and Engagement   |         - What insights did you gain from the dashboard? - Did any particular visualization spark your curiosity or interest? - Is there anything you were left wondering about after exploring the dashboard?         |
-|   Content, Presentation   and design |       - Does the order and flow of information make sense to you? - Are there any words or phrases that were difficult to understand? - Do the images and visualizations contribute to your understanding?    - Can you recognize a theme or color scheme? How effective is it?          |
-|   Target Audience and Design   |       - Who do you think is the target audience for this dashboard? |
-|   Suggestions and Improvements   |         - What changes would you suggest for this dashboard and why? - Is there any additional information or data you would like to see included?         |
+|   Background Questions      |       1. How often do you eat out at restaurants? 2. What factors influence your choice of restaurant? 2. Are you aware of health inspection scores when choosing where to eat? 3. Do you prioritize price, quality, or safety when dining out?            |     
+|  Clarity and Usability    |   1.  Were you able to quickly understand each of the visualizations? 2. Did you find any part of the dashboard confusing or unclear?              |
+|   Insights and Engagement   |         1. What insights did you gain from the dashboard? 2. Did any particular visualization spark your curiosity or interest? 3. Is there anything you were left wondering about after exploring the dashboard?         |
+|   Content, Presentation   and design |       1. Does the order and flow of information make sense to you? 2. Are there any words or phrases that were difficult to understand? - Do the images and visualizations contribute to your understanding?    3. Can you recognize a theme or color scheme? How effective is it?          |
+|   Target Audience and Design   |       1. Who do you think is the target audience for this dashboard? |
+|   Suggestions and Improvements   |         1. What changes would you suggest for this dashboard and why? 2. Is there any additional information or data you would like to see included?         |
 
 
 
@@ -61,15 +90,13 @@ For the purpose of this user research, I picked three participants belonging to 
 
 ### Interviewee 1: Asian, Student, M(25) ,NYC
 #### Key Insights:
-- Most visualizations understandable and will be really useful for NYC consumers and restaurant/café managers.
-- A simpler dashboards with fewer graphs will be easier to look it
-- I concept of correlation was unclear, particularly in the first graph, which lacked a clear purpose.
+- Most visualizations understandable and will be really useful for NYC consumers and restaurant managers.
 - Suggested reordering legends for clarity and using a consistent color theme ( Red, Peach and Green) so that I won’t have to add multiple legends 
-- Terms like "BORO" and "Correlation" were confusing.
+- Not familiar with the term "BORO" and "Correlation".
 - Didn’t understand the purpose of a chart in Dashboard 2 with the current storyline. 
-- Try Highlight top 10 Cuisines for to avoid the cluttering of labels
+- Try Highlighting top 10 Cuisines to avoid the cluttering of labels in the Inspection Grade by Cuisine in Dashboard 1
 #### Key Quotes: *“Legends should be placed in way its easier for the eyes to interpret graphs”*
-*“I am new to the concept of correlation, maybe look a simpler way so that a wider audience can understand”*
+#### *“I am new to the concept of correlation, maybe look a simpler way so that a wider audience can understand”*
 
 
 ### Interviewee 2: Asian, Working Professional, M(28) , NYC
@@ -86,7 +113,7 @@ Ensure Dashboard 2 clearly indicates it's about NYC.
 
 ### Interviewee 3: : Asian, Working Professional, F(37), New Jersey
 #### Key Insights:
-- The first dashboard was easy to understand and provided interesting insights. 
+- I like the color theme being used for the map and bar chart in the Dasbboard 1, but try to use the same color theme for ther graphs as well
 - The alignment of the charts in the Dashboard 1 are not quite right
 - The idea of myth busting dashboard is really good
 - The title are great in Dashboard 1
