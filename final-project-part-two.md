@@ -85,8 +85,7 @@ For the purpose of this user research, I picked three participants belonging to 
 
 | Goal | Questions to Ask |
 |------|------------------|
-|   Background Questions      |  • How often do you eat out at restaurants? <br>  • What factors influence your choice of restaurant? <br>   • Are you aware of health inspection scores when choosing where to eat? 
-<br>   • Do you prioritize price, quality, or safety when dining out?            |     
+|   Background Questions      |  • How often do you eat out at restaurants? <br>  • What factors influence your choice of restaurant? <br>   • Are you aware of health inspection scores when choosing where to eat? <br>   • Do you prioritize price, quality, or safety when dining out?            |     
 |  Clarity and Usability    |  •   Were you able to quickly understand each of the visualizations? <br>   • Did you find any part of the dashboard confusing or unclear?              |
 |   Insights and Engagement   |          • What insights did you gain from the dashboard?  <br>   •  Did any particular visualization spark your curiosity or interest? <br>   • Is there anything you were left wondering about after exploring the dashboard?         |
 |   Content, Presentation   and design |       • Does the order and flow of information make sense to you? 2. Are there any words or phrases that were difficult to understand? <br>   • Do the images and visualizations contribute to your understanding?   <br>   • Can you recognize a theme or color scheme? How effective is it?          |
@@ -133,14 +132,17 @@ Ensure Dashboard 2 clearly indicates it's about NYC.
 
 # Identified changes for Part III
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Interviewee suggested using a consistent color theme across all graphs. | I will apply the same color palette (Red, Peach, Green) to all visualizations for uniformity |
-|   Legends and labels not placed correctly found confusing and cluttered.                                       |          Reorder legends for clarity. Since I'll have a common color theme I can use the same legend for most the charts in the Dashboard. I'l also add labels for the line chart axis. |                                       |  Users were unclear about the concept of correlation.|               Add a brief explanation/defination of correlation on the dashboard to aid understanding and use more descriptive titles that depict the correlation findings              |
-|      The map and bar graph showing grades by boro present the same data.  | Remove one of these graphs to streamline information. |
-|    Dashboard 2 lacked storytelling element    |      Revise titles to be more descriptive and narrative-focused. Provide context about the scoring system with a short paragraph.                   |  
-| Misalignment of charts in Dashboard 1 was noted.|  Adjust graph alignment for better visual flow and coherence. |   Ensure that Dashboard 2 clearly indicates that the information pertains to NYC    | I'll make sure that Dashboard title mention NYC  |
-|          Dashboard 1's  Inspection Grade by Cuisine  chart looks cluttered     |   Display only top 10 cuisines to reduce clutter in the y-axis       |
+| Research synthesis                                                                                   | Anticipated changes for Part III                                                                                              |
+|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Interviewee suggested using a consistent color theme across all graphs.                              | I will apply the same color palette (Red, Peach, Green) to all visualizations for uniformity.                                  |
+| Legends and labels not placed correctly, found confusing and cluttered.                              | Reorder legends for clarity. Since I'll have a common color theme, I can use the same legend for most charts in the dashboard. I'll also add labels for the line chart axis. |
+| Users were unclear about the concept of correlation.                                                 | Add a brief explanation/definition of correlation on the dashboard to aid understanding and use more descriptive titles that depict the correlation findings.          |
+| The map and bar graph showing grades by boro present the same data.                                  | Remove one of these graphs to streamline information.                                                                         |
+| Dashboard 2 lacked storytelling element.                                                             | Revise titles to be more descriptive and narrative-focused. Provide context about the scoring system with a short paragraph.    |
+| Misalignment of charts in Dashboard 1 was noted.                                                     | Adjust graph alignment for better visual flow and coherence.                                                                  |
+| Ensure that Dashboard 2 clearly indicates that the information pertains to NYC.                      | I'll make sure that the dashboard title mentions NYC.                                                                         |
+| Dashboard 1's "Inspection Grade by Cuisine" chart looks cluttered.                                   | Display only the top 10 cuisines to reduce clutter in the y-axis.                                                             |
+
 
 
 
