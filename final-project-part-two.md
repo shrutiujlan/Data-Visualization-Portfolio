@@ -72,6 +72,7 @@ Call-to-Action: By exploring these visualizations, users can better understand t
 ## Target audience and Participant Demographics
 
 The primary audience for my story are:
+<br>
 Consumers/Diners/Visitors: NYC locals who frequently eat out and want to make informed choices about where to dine based on food safety and customer satisfaction. Also, visitors to NYC who are unfamiliar with the city's dining scene might appreciate having a data-driven resource to ensure they pick both safe and well-reviewed restaurants
 Restaurant Owners and Managers: They can use the insights from these dashboards to gauge how their establishments compare with competitors in terms of food safety and customer perception. They could also use the information to improve their operations, focusing on areas of weakness revealed by the data.
 
