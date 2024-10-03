@@ -89,7 +89,7 @@ For the purpose of this user research, I picked three participants belonging to 
 |   Background Questions      |  • How often do you eat out at restaurants? <br>  • What factors influence your choice of restaurant? <br>   • Are you aware of health inspection scores when choosing where to eat? <br>   • Do you prioritize price, quality, or safety when dining out?            |     
 |  Clarity and Usability    |  •   Were you able to quickly understand each of the visualizations? <br>   • Did you find any part of the dashboard confusing or unclear?              |
 |   Insights and Engagement   |          • What insights did you gain from the dashboard?  <br>   •  Did any particular visualization spark your curiosity or interest? <br>   • Is there anything you were left wondering about after exploring the dashboard?         |
-|   Content, Presentation   and design |       • Does the order and flow of information make sense to you? 2. Are there any words or phrases that were difficult to understand? <br>   • Do the images and visualizations contribute to your understanding?   <br>   • Can you recognize a theme or color scheme? How effective is it?          |
+|   Content, Presentation   and design |       • Does the order and flow of information make sense to you? <br>   •  Are there any words or phrases that were difficult to understand? <br>   • Do the images and visualizations contribute to your understanding?   <br>   • Can you recognize a theme or color scheme? How effective is it?          |
 |   Target Audience and Design   |        Who do you think is the target audience for this dashboard? |
 |   Suggestions and Improvements   |       What changes would you suggest for this dashboard and why? 2. Is there any additional information or data you would like to see included?         |
 
@@ -149,6 +149,7 @@ Ensure Dashboard 2 clearly indicates it's about NYC.
 
 ## Final Thoughts
 
-These changes aim to enhance clarity, engagement, and usability and enhance the storytelling of the dashboards, making it more informative and accessible to the audience. By addressing these key areas, the dashboard will better serve its intended purpose of about making diners and restaurant managers aware of the the restaurant inspection data debunking myths about restaurant safety and quality.
+The reviews I got from the in-class critique were helpful in getting my first draft ready where I changed my color themes to (Red, Peach, and Green) and changed a few chart types. 
+After these 3 interviews, the changes that I plan on making aim to enhance clarity, engagement, and usability and enhance the storytelling of the dashboards, which will help in making the dahsboard more informative and accessible to the audience. By addressing these key areas, the dashboard will better serve its intended purpose of about making diners and restaurant managers aware of the the restaurant inspection data debunking myths about restaurant safety and quality.
 
 
