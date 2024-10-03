@@ -112,7 +112,7 @@ For the purpose of this user research, I picked three participants belonging to 
 ### Interviewee 2: Asian, Working Professional, M(28) , NYC
 #### Key Insights:
 - The first dashboard was easy to understand and provided interesting insights. 
-- However, the scatterplot in particular in the Dashboard  2 was difficult to understand in the flirst glance ; a box plot might be clearer.
+- However, the scatterplot in particular in the Dashboard  2 was difficult to understand in the first glance ; a box plot might be clearer.
 - The "Inspection Grade by Cuisine and Boro" graphs  sparked their curiosity.
 - Legends should be ordered correctly, and a consistent color theme is recommended. 
 - The map and bar graph showing grades by boro both are representing the same data or idea; consider removing one.
