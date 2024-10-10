@@ -40,7 +40,7 @@ vizElement.style.maxWidth='1350px';
 
 Color Palette Consistency: In response to feedback, I implemented a cohesive color scheme (Red, Peach, Green) across all dashboards to ensure visual uniformity and minimize confusion.
 
-Reordered and updated Legends and filters for Clarity: I reorganized the legends to enhance clarity, simplifying navigation through the data visualizations. By employing a common legend and filters across most charts, I reduced clutter and improved overall readability. Additionally, I removed  Null option from the Isnpection Grade filter by using a set of the Grades column (non null), as it was not adding any value and was unecessary.
+Reordered and updated Legends and filters for Clarity: I reorganized the legends to enhance clarity, simplifying navigation through the data visualizations. By employing a common legend and filters across most charts, I reduced clutter and improved overall readability. Additionally, I removed  Null option from the Isnpection Grade filter by using a set of the Grades column (non null), as it was not adding any value and was unecessary [1]
 
 Updated Terminology: I revised the title that previously used the term "Boro," changing it to "Neighborhood" to make it more accessible for all users.
 
@@ -63,7 +63,7 @@ Removal of Unnecessary Filters: I eliminated superfluous filters that could hind
 
 ### Common Changes in Dashboards
 
-Key Takeaways Section: Following suggestions from my professor after the presentation, I added a concise key takeaways section at the top or side of the dashboard to provide viewers with a quick summary.
+Key Takeaways Section: Following suggestions with professor after the presentation, I added a concise key takeaways section at the top or side of the dashboard to provide viewers with a quick summary.This change enhances the overall impact of the dashboards and reinforces the key takeaways about food safety and quality in NYC restaurants.
 
 Axis Labels and Chart Alignment: I corrected missing axis labels in several charts (e.g., line graphs) and ensured better alignment of the charts for a smoother visual experience.
 
@@ -73,14 +73,9 @@ Enhanced Storytelling with Titles and Context: I revised the titles of the visua
 ## The audience
 Initially, I had a broader target audience in mind, including NYC locals who frequently dine out, visitors, restaurant owners and managers, as well as health inspectors and regulators, however, as I gathered more data and insights, it became clear that the dashboards were more diner-centric. While they can also provide valuable insights for restaurant managers, my primary focus shifted toward informing diners. My call to action for them is to truly understand what guarantees food safety and how safe their dining choices are based on available information. The inspection scores I analyzed are publicly available and serve as one of the best indicators of safer dining options. By emphasizing this, I hope to empower diners to make informed decisions about where to eat, leveraging the inspection data as a vital resource in their dining experiences.
 
-## Final design decisions
-Throughout the design process, I made numerous decisions that shaped the final output of my project. The choice to use a consistent color scheme was crucial for creating a cohesive visual experience. I also learned the importance of clear labeling and organization of information, which directly affects how users engage with the data.
+## References
 
-Another significant decision was to simplify the language used in the dashboard. By removing technical jargon and replacing it with accessible terms, I made the analysis more relatable to users who may not have a strong background in data analysis. This transformation aims to empower users to draw their conclusions without feeling overwhelmed by complex terminology.
-
-I also realized the importance of storytelling in data visualization. Each visualization now includes titles that not only describe the data but also engage the viewer by presenting the narrative behind the numbers. Adding a takeaway section also aids in getting the gist of the dashboard at a glance. This change enhances the overall impact of the dashboards and reinforces the key takeaways about food safety and quality in NYC restaurants.
-
-
+[1] https://community.tableau.com/s/question/0D54T00000C6LboSAF/how-to-hide-null-from-filter-while-still-keeping-it-in-data
 
 Text here!
 
