@@ -32,7 +32,8 @@ vizElement.style.maxWidth='1350px';
   vizElement.style.maxHeight='1027px';
   vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                   
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
 # Changes made since Part II
@@ -76,8 +77,6 @@ Initially, I had a broader target audience in mind, including NYC locals who fre
 ## References
 
 [1] https://community.tableau.com/s/question/0D54T00000C6LboSAF/how-to-hide-null-from-filter-while-still-keeping-it-in-data
-
-Text here!
 
 # Final thoughts
 
