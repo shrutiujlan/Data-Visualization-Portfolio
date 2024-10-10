@@ -79,6 +79,7 @@ Axis Labels and Chart Alignment: I corrected missing axis labels in several char
 
 Enhanced Storytelling with Titles and Context: I revised the titles of the visualizations to be more descriptive and narrative-driven, focusing on the story behind the data rather than merely stating numerical correlations. This approach strengthens the overall narrative arc and improves viewer engagement.
 
+
 ## The audience
 Initially, I had a broader target audience in mind, including NYC locals who frequently dine out, visitors, restaurant owners and managers, as well as health inspectors and regulators, however, as I gathered more data and insights, it became clear that the dashboards were more diner-centric. While they can also provide valuable insights for restaurant managers, my primary focus shifted toward informing diners. My call to action for them is to truly understand what guarantees food safety and how safe their dining choices are based on available information. The inspection scores I analyzed are publicly available and serve as one of the best indicators of safer dining options. By emphasizing this, I hope to empower diners to make informed decisions about where to eat, leveraging the inspection data as a vital resource in their dining experiences.
 
