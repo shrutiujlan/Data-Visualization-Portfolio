@@ -1,4 +1,5 @@
-| [home page](https://shrutiujlan.github.io/tswd-portfolio/) | [visualizing debt](https://shrutiujlan.github.io/tswd-portfolio/visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three)
+| [home page](https://shrutiujlan.github.io/tswd-portfolio/) | [visualizing debt](https://shrutiujlan.github.io/tswd-portfolio/visualizing-government-debt) | [critique by design](critique-by-design) |  [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Wireframes / storyboards
 
 I worked on developing wireframes, and dashboards, and conducting user research to refine my storytelling concept. The artifacts for this stage were created using Python and Tableau. 
