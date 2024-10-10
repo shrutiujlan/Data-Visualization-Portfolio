@@ -23,9 +23,9 @@ Hi I am Shruti! I am MISM Graduate student at Carnegie Mellon University. I enjo
 
 
 ## Final project
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
+- [Part I](final-project-part-one)
+- [Part II](final-project-part-two)
+- [Part III](final-project-part-three)
 
 
 
