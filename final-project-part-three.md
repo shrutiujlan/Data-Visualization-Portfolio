@@ -35,6 +35,7 @@ vizElement.style.height='827px';
 
 
 <br>
+
 ### Quick Guide to use the dashboards
 
 In Dashboard 1, you can use the multi-value filter to focus on a specific inspection grade, which will update most of the graphs accordingly, except for the "Culinary Caution: Top Offenders" and "Which Cuisine is Safest?" charts. For the NYC map, hover over a zip code to view detailed information, including the restaurant name, violations, cuisine type, inspection grade received, and inspection score.
