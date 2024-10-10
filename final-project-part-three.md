@@ -43,8 +43,8 @@ In Dashboard 1, you can use the multi-value filter to focus on a specific inspec
 
 If dashboards aren't rendering you can view them here:
 
-Dahsbaord1 https://public.tableau.com/app/profile/shruti.ujlan/viz/NycDiningInsights/Dashboard1#1
-Dahsboard2 https://public.tableau.com/app/profile/shruti.ujlan/viz/DebunkingDiningMythsinNewyorkCity/Dashboard1
+- Dahsbaord1 https://public.tableau.com/app/profile/shruti.ujlan/viz/NycDiningInsights/Dashboard1#1
+- Dahsboard2 https://public.tableau.com/app/profile/shruti.ujlan/viz/DebunkingDiningMythsinNewyorkCity/Dashboard1
 
 # Changes made since Part II
 ### Dashboard I
