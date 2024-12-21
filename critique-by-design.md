@@ -1,4 +1,5 @@
-| [home page](https://shrutiujlan.github.io/tswd-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://shrutiujlan.github.io//Data-Visualization-Portfolio/) | [visualizing debt](https://shrutiujlan.github.io/Data-Visualization-Portfolio/visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three)
+
 
 # Critique By Design - Assignment 3
 
